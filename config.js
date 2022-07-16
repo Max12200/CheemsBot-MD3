@@ -55,11 +55,11 @@ global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄𝗠𝗔𝗗 𝗚𝗨𝗬 𝗠𝗔𝗫"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
+global.ownertag = ['@917994827702'] //ur owner tag
+global.ownernummenu = ['@917994827702'] //ur owner number in menu and all
 global.watermark = "Xeon Bot Inc." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
+global.linkz1 = "https://chat.whatsapp.com/BCakylPg8CQ7tw3TN9XlF5"
 global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
 
 //Bot theme media
@@ -101,12 +101,12 @@ global.mess = {
     group: 'This feature is only for groups!',
     private: 'This feature is only for private chats!',
     bot: 'This feature is only for bot',
-    wait: 'In process...',
+    wait: 'In process...baby💝',
     linkm: 'Where is the link?',
     error: 'Error!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    banChat: 'The bot was banned in this group, please contact the owner to unban' '@𝗠𝗔𝗗 𝗠𝗔𝗫'
 }
 global.limitawal = {
     premium: "Infinity",
