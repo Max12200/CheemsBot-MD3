@@ -60,7 +60,7 @@ global.ownernummenu = ['@917994827702'] //ur owner number in menu and all
 global.watermark = "Xeon Bot Inc." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/BCakylPg8CQ7tw3TN9XlF5"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.linkz2 = "https://chat.whatsapp.com/DgNHqhJd07M3plApO4NfU7"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
